@@ -25,3 +25,7 @@ The storage result is an estimate. Real systems depend on:
 - motion recording;
 - redundancy;
 - manufacturer-specific recording behavior.
+
+## Practical use
+
+The tool is useful during an early design phase to understand whether a proposed CCTV system is compatible with basic network, storage and power constraints.
