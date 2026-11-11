@@ -12,7 +12,7 @@
 
 - Total bandwidth: about 16 Mbps
 - Estimated storage: about 2.6 TB
-- Recommended disk size: 3 TB minimum
+- Recommended disk size: 4 TB minimum
 - Estimated PoE budget: about 38 W including safety margin
 
 ## Notes
